@@ -15,4 +15,4 @@ Designed for speed, modularity, and educational use.
 3. Launch from Start Menu or Desktop shortcut
 
 ## License
-
+The Unlicense
