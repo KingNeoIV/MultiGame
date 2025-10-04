@@ -1,9 +1,16 @@
 import tkinter as tk
 import ctypes
+import os
+import sys
+
+# Find the correct path to the DLL
+
+base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
+dll_path = os.path.join(base_path, "mathEngine.dll")
 
 # Load the C++ DLL
 
-engine = ctypes.CDLL(r"D:\TheHighCounsel\IndeProductions\flashCardv2\mathEngine.dll")
+engine = ctypes.CDLL(dll_path)
 engine.get_question.restype = ctypes.c_char_p # Tell Python to expect a string
 
 def start_game():
