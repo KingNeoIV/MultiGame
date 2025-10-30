@@ -10,9 +10,9 @@ Designed for speed, modularity, and educational use.
 - Installer built with Inno Setup
 
 ## How to Run
-The updated installation package is located on the branch **Update-v2.1-installer**.
+The updated installation package is located on the branch **MultiGamev2.1.exe**.
 
-1. Download the file **MultiGame2.1.exe**.
+1. Download the file **MultiGamev2.1.exe**.
 2. Run the installer.
 3. Launch the game from the Start Menu or Desktop shortcut.
 
