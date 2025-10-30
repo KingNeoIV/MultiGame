@@ -12,9 +12,9 @@ Designed for speed, modularity, and educational use.
 ## How to Run
 The updated installation package is located on the branch **Update-v2.1-installer**.
 
-3. Download the file **MultiGame2.1.exe**.
-4. Run the installer.
-5. Launch the game from the Start Menu or Desktop shortcut.
+1. Download the file **MultiGame2.1.exe**.
+2. Run the installer.
+3. Launch the game from the Start Menu or Desktop shortcut.
 
 ## License
 
